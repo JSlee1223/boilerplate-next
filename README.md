@@ -1,2 +1,0 @@
-# boilerplate-next
-Typescript, nextJS
